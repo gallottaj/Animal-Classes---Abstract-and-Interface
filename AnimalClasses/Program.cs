@@ -39,7 +39,6 @@ namespace AnimalClasses
             g.Milk();
 
             Console.ReadLine();
-
         }
     }
 }
